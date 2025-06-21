@@ -1,2 +1,2 @@
 # HYDROHARVESTER-SUAS-Module-Device-Design-Capstone-Project
-This repository will serve as the foundation for future developments related to my mechanical engineering capstone project, documenting design progress, analysis, and system integration.
+Designing a modular water collection device for integration with a Small Unmanned Aerial System (SUAS) to enable remote sampling in hazardous environments and enhance environmental research operations in Puerto Rico. Continuing collaboration with stakeholders to refine system requirements and achieve upcoming design and testing milestones.
